@@ -7,7 +7,7 @@ import random
 class Bill_App:
     def __init__(self, root) -> None:
         self.root = root
-        self.root.geometry("1350x710+0+0")
+        self.root.geometry("1350x705+0+0")
         self.root.title("Billing software")
         bg_color = "#badc57"
         Label(
@@ -205,7 +205,7 @@ class Bill_App:
 
         # =======================BillFrame=============
         F6 = LabelFrame(self.root, text='Bill Area', font=('times new roman', 15, 'bold'), bd=7, bg=bg_color, fg='black')
-        F6.place(x=0, y=560, relwidth=1, height=140)
+        F6.place(x=0, y=552, relwidth=1, height=140)
 
         m1_lbl = Label(F6, text='Total Medical Price', font=('times new roman', 14, 'bold'), bg=bg_color, fg='black')
         m1_lbl.grid(row=0, column=0, padx=17, pady=1, sticky='W')
