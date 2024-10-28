@@ -1,0 +1,21 @@
+	Welcome Webcode Retail
+Bill number: 6319
+Customer name: Dangote
+Phone number: +44
+=================================
+Products		QTY		Price
+Sanitizer		1000		2000
+Rice		50		500
+Food oil		10		100
+Flour		75		600
+Sprite		100		1000
+Limka		100		1000
+Mazza		100		1000
+Coke		100		1000
+Fanta		100		1000
+Mountain Duo		100		1000
+------------------------------------
+Medical tax			Rs. 100.0
+Medical tax			Rs. 60.0
+Medical tax			Rs. 600.0
+Total Bill:			9960.0

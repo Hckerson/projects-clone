@@ -1,0 +1,14 @@
+Welcome Webcode Retail
+Bill number: 3231
+Customer name: gfds
+Phone number: 4353
+===========================
+Products		QTY		Price
+Dettol		16		480
+Food oil		23		230
+Fanta		5		50
+--------------------------------
+Medical tax			Rs. 24.0
+Medical tax			Rs. 11.5
+Medical tax			Rs. 5.0
+Total Bill:			800.5
